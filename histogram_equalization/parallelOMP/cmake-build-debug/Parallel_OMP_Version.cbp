@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Parallel_OMP_Version"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Parallel_OMP_Version">
+				<Option output="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Parallel_OMP_Version" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/opencv/4.4.0/include/opencv4"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 Parallel_OMP_Version"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Parallel_OMP_Version/fast">
+				<Option output="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Parallel_OMP_Version" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/opencv/4.4.0/include/opencv4"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 Parallel_OMP_Version/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/andreasimioni/Desktop/parallel\ computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/main.cpp">
+			<Option target="Parallel_OMP_Version"/>
+		</Unit>
+		<Unit filename="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/andreasimioni/Desktop/parallel computing/fin_term_HISTOGRAM_EQUALIZATION/parallelOMP/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
